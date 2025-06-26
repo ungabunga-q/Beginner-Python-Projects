@@ -16,44 +16,83 @@
 
 ---
 
-## 🗂️ Project List
 
-| Project Name                | Description                                 |
-|-----------------------------|---------------------------------------------|
-| Calculator                  | Basic arithmetic operations                 |
-| Number Guessing Game        | Guess a random number                       |
-| To-Do List (CLI)            | Manage tasks in the terminal                |
-| Contact Book                | Save and search contacts                    |
-| Weather App                 | Get weather info using an API               |
-| Text-Based Adventure Game   | Simple interactive story                    |
-| Currency Converter          | Convert USD to EUR                          |
-| Password Generator          | Create strong random passwords              |
-| Flashcard Quiz              | Quiz yourself with flashcards               |
-| Dice Roller                 | Simulate rolling a dice                     |
-| Stopwatch                   | Measure elapsed time                        |
-| Countdown Timer             | Timer that counts down                      |
-| Mad Libs Generator          | Fill-in-the-blanks story game               |
-| Rock Paper Scissors         | Play against the computer                   |
-| Hangman                     | Classic word guessing game                  |
-| Palindrome Checker          | Check if a word is a palindrome             |
-| Prime Number Checker        | Test if a number is prime                   |
-| Fibonacci Sequence Generator| Print Fibonacci numbers                     |
-| Multiplication Table        | Display multiplication tables               |
-| Simple Alarm Clock          | Set a timer alarm                           |
-| Binary to Decimal Converter | Convert binary to decimal                   |
-| Word Counter                | Count words in a sentence                   |
-| BMI Calculator              | Calculate Body Mass Index                   |
-| Calendar Viewer             | Show a calendar for any month/year          |
-| Simple Notepad              | Write and read notes to a file              |
-| Email Slicer                | Split email into username and domain        |
-| Anagram Checker             | Check if two words are anagrams             |
-| Quiz Game                   | Multiple-choice quiz                        |
-| Random Joke Generator       | Get a random programming joke               |
-| Tip Calculator              | Calculate tips for bills                    |
-| Age Calculator              | Find your age from birth year               |
-| Temperature Converter       | Convert Celsius and Fahrenheit              |
-| Simple Stopwatch            | Another stopwatch variant                   |
-| QR Code Generator           | Create QR codes from text                   |
+## 🗂️ Project List (50+ Beginner Projects)
+
+### Core Python & Utilities
+- Calculator
+- Number Guessing Game
+- To-Do List (CLI)
+- Contact Book
+- Dice Roller
+- Stopwatch
+- Countdown Timer
+- Mad Libs Generator
+- Rock Paper Scissors
+- Hangman
+- Palindrome Checker
+- Prime Number Checker
+- Fibonacci Sequence Generator
+- Multiplication Table
+- Simple Alarm Clock
+- Binary to Decimal Converter
+- Word Counter
+- BMI Calculator
+- Calendar Viewer
+- Simple Notepad
+- Email Slicer
+- Anagram Checker
+- Quiz Game
+- Random Joke Generator
+- Tip Calculator
+- Age Calculator
+- Temperature Converter
+- Simple Stopwatch
+- QR Code Generator
+- Password Generator
+- Flashcard Quiz
+- Currency Converter
+- Alarm Clock
+- Calendar Viewer
+- Multiplication Table
+- Email Slicer
+- Simple Notepad
+- Contact Book
+- Word Counter
+- Binary to Decimal Converter
+
+### Data Science & Analytics
+- CSV Summary Statistics
+- Plot Line Graph
+- Simple Linear Regression
+- K-Means Clustering Demo
+- Sentiment Analysis
+- Data Visualizer (Bar/Scatter)
+- Web Scraper for Data Collection
+- Stock Price Visualizer
+- Movie Recommendation System
+- Random Forest Classifier (basic)
+- Iris Dataset Classifier
+
+### Games & Fun
+- Guess the Word
+- Simple Blackjack
+- Tic Tac Toe
+- Memory Puzzle
+- Simple Maze Game
+- Simon Says (CLI)
+- Dice Roller (Advanced)
+
+### AI & Machine Learning
+- Image Classifier (pre-trained)
+- Text Summarizer (basic)
+- Chatbot (rule-based)
+- Number Recognition (MNIST demo)
+- Basic Neural Network (with Keras)
+
+...and more!
+
+Each project includes per-line explanations and comments for easy learning.
 
 ---
 
